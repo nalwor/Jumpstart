@@ -1,0 +1,57 @@
+html {
+  font-size: 14px;
+  font-family: "Open Sans";
+}
+
+body {
+
+}
+
+/* Header */
+
+.navbar-nav {
+  font-family: "Open Sans";
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+/* Jumbotron */
+
+.jumbotron-bike {
+  background-image: url("../images/jumbotron-bike.jpg");
+}
+.jumbotron-bike .container {
+  margin: 11.85rem auto;
+  text-align: center;
+  color: white;
+}
+
+.jumbotron-bike .container h1 {
+  font-family: "Monoton";
+  font-size: 7.1rem;
+}
+
+/* Featured Section */
+
+
+
+/* Projects */
+
+/* Bottom Section */
+
+.jumbotron-idea {
+  background-color: #f3f3f3;
+}
+
+.jumbotron-idea .container {
+  text-align: center;
+}
+
+.jumbotron-idea .container h2 {
+  font=size: 2.5rem;
+  font-weight: bold;
+}
+
+.jumbotron-idea .container h2 {
+
+}
