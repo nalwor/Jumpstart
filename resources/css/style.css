@@ -7,12 +7,24 @@ body {
 
 }
 
+h4 {
+  font-size: 1.3rem;
+}
+
 /* Header */
 
 .navbar-nav {
   font-family: "Open Sans";
   font-size: 1.1rem;
   font-weight: bold;
+}
+
+.nav .navbar-nav .active{
+  color: #399bd1;
+}
+
+.navbar-right img {
+  margin: auto 0;
 }
 
 /* Jumbotron */
@@ -33,7 +45,22 @@ body {
 
 /* Featured Section */
 
+.col-sm-6 {
+  width: 100%;
+}
 
+.image-container {
+  /* width: 100%; */
+}
+
+.container h3 {
+  color: #399bd1;
+}
+
+.container h4 {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
 
 /* Projects */
 
@@ -41,9 +68,11 @@ body {
 
 .jumbotron-idea {
   background-color: #f3f3f3;
+  margin-top: 5.85rem;
 }
 
 .jumbotron-idea .container {
+  margin: 5.2rem auto;
   text-align: center;
 }
 
