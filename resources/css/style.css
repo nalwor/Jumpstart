@@ -19,12 +19,13 @@ h4 {
   font-weight: bold;
 }
 
-.nav .navbar-nav .active a:hover{
-  color: #399bd1;
+.navbar-right img {
+  position: relative;
+  top: 15px;
 }
 
-.navbar-right img {
-  margin: auto 0;
+.navbar-default .navbar-nav>li>a:hover {
+    color: #399bd1;
 }
 
 /* Jumbotron */
@@ -34,15 +35,15 @@ h4 {
 }
 
 .jumbotron-beer {
-  background-image: url("path/to/jumbotron-beer.jpg");
+  background-image: url("../images/jumbotron-beer.jpg");
 }
 
 .jumbotron-flowers {
-  background-image: url("path/to/jumbotron-flowers.jpg");
+  background-image: url("../images/jumbotron-flowers.jpg");
 }
 
 .jumbotron-duffel {
-  background-image: url("path/to/jumbotron-duffel.jpg");
+  background-image: url("../images/jumbotron-duffel.jpg");
 }
 
 .jumbotron-bike .container {
