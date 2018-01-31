@@ -32,6 +32,19 @@ h4 {
 .jumbotron-bike {
   background-image: url("../images/jumbotron-bike.jpg");
 }
+
+.jumbotron-beer {
+  background-image: url("path/to/jumbotron-beer.jpg");
+}
+
+.jumbotron-flowers {
+  background-image: url("path/to/jumbotron-flowers.jpg");
+}
+
+.jumbotron-duffel {
+  background-image: url("path/to/jumbotron-duffel.jpg");
+}
+
 .jumbotron-bike .container {
   margin: 11.85rem auto;
   text-align: center;
