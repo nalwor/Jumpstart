@@ -48,22 +48,18 @@ h4 {
   background-image: url("../images/jumbotron-duffel.jpg");
 }
 
-.jumbotron-bike .container {
+.jumbotron .container {
   margin: 11.85rem auto;
   text-align: center;
   color: white;
 }
 
-.jumbotron-bike .container h1 {
+.jumbotron .container h1 {
   font-family: "Monoton";
   font-size: 7.1rem;
 }
 
 /* Featured Section */
-
-/* .col-sm-6 {
-  width: 100%;
-} */
 
 .image-container img {
   opacity: 0.7;
@@ -105,8 +101,4 @@ h4 {
 .jumbotron-idea .container h2 {
   font=size: 2.5rem;
   font-weight: bold;
-}
-
-.jumbotron-idea .container h2 {
-
 }
