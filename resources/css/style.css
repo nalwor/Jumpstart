@@ -19,13 +19,12 @@ h4 {
   font-weight: bold;
 }
 
-.navbar-right img {
-  position: relative;
-  top: 15px;
+.nav .navbar-nav .active a:hover{
+  color: #399bd1;
 }
 
-.navbar-default .navbar-nav>li>a:hover {
-    color: #399bd1;
+.navbar-right img {
+  margin: auto 0;
 }
 
 /* Jumbotron */
