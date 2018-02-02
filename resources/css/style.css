@@ -19,12 +19,15 @@ h4 {
   font-weight: bold;
 }
 
-.nav .navbar-nav .active a:hover{
+.navbar-default .navbar-nav>li>a:hover {
   color: #399bd1;
 }
 
+
 .navbar-right img {
   margin: auto 0;
+  position: relative;
+    top: 15px;
 }
 
 /* Jumbotron */
@@ -58,19 +61,22 @@ h4 {
 
 /* Featured Section */
 
-.col-sm-6 {
+/* .col-sm-6 {
   width: 100%;
-}
+} */
 
 .image-container img {
   opacity: 0.7;
   transition: opacity 0.5, scale 0.5;
   overflow: hidden;
+  width: 100%;
 }
 
 .image-container img:hover {
   opacity: 1;
   transition: scale (1.3);
+  overflow: hidden;
+  width: 100%;
 }
 
 .container h3 {
