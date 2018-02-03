@@ -1,10 +1,10 @@
 html {
   font-size: 14px;
-  font-family: "Open Sans";
 }
 
 body {
-
+  font-family: "Open Sans";
+  line-height: 1.4;
 }
 
 h4 {
@@ -21,13 +21,6 @@ h4 {
 
 .navbar-default .navbar-nav > .active > a:hover {
   color: #399bd1;
-}
-
-
-.navbar-right img {
-  margin: auto 0;
-  position: relative;
-    top: 15px;
 }
 
 /* Jumbotron */
@@ -64,7 +57,7 @@ h4 {
   font-size: 7.1rem;
 }
 
-/* Featured Section */
+/* Featured and Projects Section */
 
 .image-container {
   overflow: hidden;
@@ -94,14 +87,11 @@ h4 {
   font-weight: bold;
 }
 
-/* Projects */
-
 /* Bottom Section */
 
 .idea {
   background-color: #f3f3f3;
   margin-top: 5.85rem;
-  /* margin: 5.2rem auto; */
   text-align: center;
   padding: 5.2rem 0;
   width: 100%;
@@ -115,5 +105,4 @@ h4 {
 
 .idea p {
   color: black;
-  /* margin: auto; */
 }
